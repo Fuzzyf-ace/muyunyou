@@ -35,3 +35,27 @@
     transform: rotate(180deg);
     transition: transform 0.5s;
 }
+
+.main__menu__item__withmore {
+    position: relative;
+}
+.main__menu__item__withmore::after {
+    content: '';
+    position: absolute;
+    top: 30%;
+    right: 7px;
+    border: 5px solid transparent;
+    border-top: 5px solid white;
+}
+
+.main__menu__item__withmore:hover::after {
+    content: '';
+    position: absolute;
+    top: 10%;
+    right: 7px;
+    border: 5px solid transparent;
+    border-top: 5px solid white;
+    rotate: 180deg;
+    transition: 0.5s;
+}
+
