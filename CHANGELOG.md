@@ -1,3 +1,14 @@
+## [1.0.6](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...1.0.6) (2023-11-21)
+
+
+### Bug Fixes
+
+* :bug: a blank line in scripts should not effect anything ([8d0f22b](https://github.com/Fuzzyf-ace/muyunyou/commit/8d0f22b4c0c9dee719674ebfda6b560b3c717b21))
+* :bug: a small change ([91e22df](https://github.com/Fuzzyf-ace/muyunyou/commit/91e22df38c5fe9235ac353d71febbb84b9f6aff2))
+* :bug: just a const ([90df196](https://github.com/Fuzzyf-ace/muyunyou/commit/90df196319506f52993d9fcf760900138b211dd6))
+
+
+
 ## [1.0.5](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...1.0.5) (2023-11-21)
 
 
