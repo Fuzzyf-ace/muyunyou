@@ -9,6 +9,7 @@ const p = new Promise(
 
     }
 )
+
 console.log(test);
 
 Array.from([1,2]);
