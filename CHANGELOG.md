@@ -1,3 +1,12 @@
+## [2.0.1](https://github.com/Fuzzyf-ace/muyunyou/compare/2.0.0...2.0.1) (2023-11-21)
+
+
+### Features
+
+* :white_check_mark: aaa ([b82f110](https://github.com/Fuzzyf-ace/muyunyou/commit/b82f1109112ddf85de15f6414bcbd6dddb6c51fa))
+
+
+
 # [2.0.0](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...2.0.0) (2023-11-21)
 
 
