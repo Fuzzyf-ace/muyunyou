@@ -1,1 +1,1 @@
-(()=>{"use strict";new Promise(((e,s)=>{})),console.log("test")})();
+(()=>{"use strict";var e,r={4:(e,r,o)=>{o.d(r,{B:()=>t});const t="test"}},o={};function t(e){var n=o[e];if(void 0!==n)return n.exports;var s=o[e]={exports:{}};return r[e](s,s.exports,t),s.exports}t.d=(e,r)=>{for(var o in r)t.o(r,o)&&!t.o(e,o)&&Object.defineProperty(e,o,{enumerable:!0,get:r[o]})},t.o=(e,r)=>Object.prototype.hasOwnProperty.call(e,r),e=t(4),new Promise(((e,r)=>{})),console.log(e.B)})();
