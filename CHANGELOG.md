@@ -1,3 +1,21 @@
+## [1.0.9](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...1.0.9) (2023-11-21)
+
+
+### Bug Fixes
+
+* :art: ccc ([b463666](https://github.com/Fuzzyf-ace/muyunyou/commit/b463666dd7476b9272b87f941e46532e06ad2ab3))
+* :bug: a blank line in scripts should not effect anything ([8d0f22b](https://github.com/Fuzzyf-ace/muyunyou/commit/8d0f22b4c0c9dee719674ebfda6b560b3c717b21))
+* :bug: a small change ([91e22df](https://github.com/Fuzzyf-ace/muyunyou/commit/91e22df38c5fe9235ac353d71febbb84b9f6aff2))
+* :bug: just a const ([90df196](https://github.com/Fuzzyf-ace/muyunyou/commit/90df196319506f52993d9fcf760900138b211dd6))
+* :zap: some small change ([fd6ff46](https://github.com/Fuzzyf-ace/muyunyou/commit/fd6ff46ec49c1fe2fb3529ca52ae181cd4ccdde8))
+
+
+### Features
+
+* :fire: a feat ([526d791](https://github.com/Fuzzyf-ace/muyunyou/commit/526d791ac5d8d9db2a5f1c2961c2a5aae1bc22c4))
+
+
+
 ## [1.0.8](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...1.0.8) (2023-11-21)
 
 
