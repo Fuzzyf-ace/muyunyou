@@ -1,0 +1,1 @@
+(()=>{"use strict";new Promise(((e,s)=>{})),console.log("test")})();
