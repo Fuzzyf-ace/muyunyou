@@ -10,4 +10,13 @@ module.exports = {
         filename: '[name].js',
         path: path.resolve(__dirname, 'dist'),
     },
+    module: {
+        rules:[
+            {
+                test:/\.js$/, //regExp
+                exclude: /node_modules/,
+                loader:'babel-loader',
+            }
+        ]
+    }
 };
