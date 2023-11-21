@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.3...1.0.4) (2023-11-21)
+
+
+### Bug Fixes
+
+* :bug: just a const ([90df196](https://github.com/Fuzzyf-ace/muyunyou/commit/90df196319506f52993d9fcf760900138b211dd6))
+
+
+
 ## [1.0.3](https://github.com/Fuzzyf-ace/muyunyou/compare/1.0.2...1.0.3) (2023-11-21)
 
 
